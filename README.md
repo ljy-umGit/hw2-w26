@@ -1,2 +1,2 @@
 # hw2_simple_css
-Starter code for simple css assignment
+Completed code for simple css assignment
